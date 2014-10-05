@@ -1,6 +1,6 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
 // <copyright file="ILogWrapper.cs">
-//   Copyright (c) 2014. Under MIT licence.
+//   Copyright (c) 2014. Under MIT license.
 // </copyright>
 // <summary>
 //   A Wrapper for logging frameworks (based on Log4Net ILog interface)

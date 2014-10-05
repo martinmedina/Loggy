@@ -1,6 +1,6 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
 // <copyright file="Log4NetWrapper.cs">
-//   Copyright (c) 2014. Under MIT licence.
+//   Copyright (c) 2014. Under MIT license.
 // </copyright>
 // <summary>
 //   An ILogWrapper implementation using Log4Net.

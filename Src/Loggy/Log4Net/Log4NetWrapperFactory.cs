@@ -1,6 +1,6 @@
 ﻿// --------------------------------------------------------------------------------------------------------------------
 // <copyright file="Log4NetWrapperFactory.cs">
-//   Copyright (c) 2014. Under MIT licence.
+//   Copyright (c) 2014. Under MIT license.
 // </copyright>
 // <summary>
 //   Factory that allows the creation of Log4NetWrapper instances.
